@@ -1,0 +1,4 @@
+/src/*.classpath
+
+/src/.settings
+/src/bin
