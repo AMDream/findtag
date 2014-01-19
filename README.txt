@@ -5,6 +5,4 @@
 
 ╡н©╪ндуб
 
-[http://www.chengxufan.com/article?id=10
-](http://www.chengxufan.com/article?id=10
-)
+http://www.chengxufan.com/article?id=10
